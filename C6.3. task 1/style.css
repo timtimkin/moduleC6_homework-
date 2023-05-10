@@ -1,0 +1,19 @@
+button {
+    display: inline-block;
+    background-color: #ffcc33;
+    border: 1px solid #ffcc33;
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.btn_icon {
+    width: 25px;
+    height: 25px;
+    font-size: 25px;
+}
